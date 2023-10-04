@@ -1,8 +1,8 @@
-package com.mehedi.simplequiz2302
+package com.sowrov.short22
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.mehedi.simplequiz2302.databinding.ActivityResultBinding
+import com.sowrov.short22.databinding.ActivityResultBinding
 
 class ResultActivity : AppCompatActivity() {
 

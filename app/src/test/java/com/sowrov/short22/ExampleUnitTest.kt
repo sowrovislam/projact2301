@@ -1,4 +1,4 @@
-package com.mehedi.simplequiz2302
+package com.sowrov.short22
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.mehedi.simplequiz2302
+package com.sowrov.short22
 
 import androidx.lifecycle.ViewModel
 
@@ -34,6 +34,7 @@ class QuizViewModel : ViewModel() {
             quizList[currentQuestionIndex]
         } else {
             null
+
         }
     }
 

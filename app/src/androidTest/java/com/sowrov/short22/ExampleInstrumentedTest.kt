@@ -1,4 +1,4 @@
-package com.mehedi.simplequiz2302
+package com.sowrov.short22
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

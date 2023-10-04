@@ -1,4 +1,4 @@
-package com.mehedi.simplequiz2302
+package com.sowrov.short22
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -7,7 +7,7 @@ import android.view.View
 import android.widget.Toast
 import androidx.activity.viewModels
 import androidx.appcompat.app.AlertDialog
-import com.mehedi.simplequiz2302.databinding.ActivityMainBinding
+import com.sowrov.short22.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
